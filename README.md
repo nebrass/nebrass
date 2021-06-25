@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Nebrass 👋😊
 
-<!--
-**nebrass/nebrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💼 Senior Software Engineer at [Microsoft](https://microsoft.com)
+- 🔐 Project Leader at the [OWASP foundation](https://www.owasp.org) working on the [Barbarus 🎅 Project](https://owasp.org/www-project-barbarus/)
+- 🥳 One of the four [Oracle Groundbreaker](https://developer.oracle.com/groundbreakers/) awards happy winners for 2019
+- ⏳ Former NetBeans Dream Team member
+- 🗣 Speaker &  📚 Author
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love Java ☕️ & Cloud technologies ☁️
+
+### Get in touch:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NebrassLamouchi) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebrass/) &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nebrass) &nbsp;
+[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.nebrass.fr) &nbsp;
+[![Books](https://img.shields.io/badge/Leanpub-0F4C81?style=for-the-badge&logo=leanpub&logoColor=white)](https://leanpub.com/u/nebrass) &nbsp;
+
+### My Github Dashboard:
+
+<a href="https://github.com/nebrass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebrass&count_private=true&layout=compact" alt="Most used languages" />
+</a>
+<a href="https://github.com/nebrass">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nebrass&show_icons=true&theme=default" alt="My stats"/>
+</a>
+<a href="https://wakatime.com/@nebrass">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nebrass" alt="Wakatime"/>
+</a>
