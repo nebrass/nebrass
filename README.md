@@ -25,6 +25,3 @@ I love Java ☕️ & Cloud technologies ☁️
 <a href="https://github.com/nebrass">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nebrass&show_icons=true&theme=default" alt="My stats"/>
 </a>
-<a href="https://wakatime.com/@nebrass">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nebrass" alt="Wakatime"/>
-</a>
