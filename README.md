@@ -25,3 +25,6 @@ I love Java ☕️ & Cloud technologies ☁️
 <a href="https://github.com/nebrass">
  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nebrass&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
 </a>
+<a href="https://github.com/nebrass">
+ <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=nebrass" alt="My stats"/>
+</a>
