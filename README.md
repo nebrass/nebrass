@@ -20,8 +20,8 @@ I love Java ☕️ & Cloud technologies ☁️
 ### My Github Dashboard:
 
 <a href="https://github.com/nebrass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebrass&count_private=true&layout=compact" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nebrass&count_private=true&layout=compact" alt="Most used languages" />
 </a>
 <a href="https://github.com/nebrass">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nebrass&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
+ <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nebrass&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
 </a>
